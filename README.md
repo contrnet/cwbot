@@ -1,0 +1,2 @@
+# cwbot
+Bot for ChatWars
